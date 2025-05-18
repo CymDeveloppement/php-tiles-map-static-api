@@ -2,9 +2,9 @@
 [![Latest Stable Version](https://poser.pugx.org/DantSu/php-osm-static-api/v/stable)](https://packagist.org/packages/DantSu/php-osm-static-api)
 [![GitHub license](https://img.shields.io/github/license/DantSu/php-osm-static-api.svg)](https://github.com/DantSu/php-osm-static-api/blob/master/LICENSE)
 
-# PHP OpenStreetMap Static API
+# PHP Tiles Map Static API
 
-PHP library to easily get static image from OpenStreetMap with markers, lines, circles and polygons.
+PHP library to easily get static image from Tiles server with markers, lines, circles and polygons.
 
 This project uses the [Tile Server](https://wiki.openstreetmap.org/wiki/Tile_servers) of the OpenStreetMap Foundation which runs entirely on donated resources, see [Tile Usage Policy](https://operations.osmfoundation.org/policies/tiles/) for more information.
 
